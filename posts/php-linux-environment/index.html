@@ -58,7 +58,7 @@
 
   
   <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link rel="manifest" href="/manifest.json">
+  <link rel="manifest" href="web.webmanifest">
 
   <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="#1 PHP Linux Environment - Start Journey"/>
@@ -202,21 +202,8 @@ Terminal=true
         
 
         <div class="site-footer">
-  <script>
-    if ('serviceWorker' in navigator) {
-      navigator.serviceWorker
-        .register('/sw.js', { scope: '/' })
-        .then(function (registration) {
-          
-        });
-
-      navigator.serviceWorker
-        .ready
-        .then(function (registration) {
-          
-        });
-    }
-  </script>
+  
+  <script src="register.js"></script>
 
   
   
