@@ -58,6 +58,7 @@
 
   
   <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link rel="manifest" href="/manifest.json">
 
   <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Categories"/>
@@ -118,6 +119,22 @@
         </div>
 
         <div class="site-footer">
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker
+        .register('/sw.js', { scope: '/' })
+        .then(function (registration) {
+          
+        });
+
+      navigator.serviceWorker
+        .ready
+        .then(function (registration) {
+          
+        });
+    }
+  </script>
+
   
   
 </div>
