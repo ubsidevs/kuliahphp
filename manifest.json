@@ -1,7 +1,7 @@
 {
   "name": "KuliahPHP",
   "short_name": "KuliahPHP",
-  "start_url": "/",
+  "start_url": "https://bucin-kode.github.io/kuliahphp/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#FFFFFF",
