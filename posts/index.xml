@@ -17,7 +17,7 @@
       <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://bucin-kode.github.io/posts/php-linux-environment/</guid>
-      <description>Instalasi XAMPP Linux  Download XAMPP : XAMPP Linux Buka Terminal  &amp;gt; sudo chmod 777 xampp.run &amp;gt; sudo ./xampp.run Membuat Shortcut XAMPP &amp;gt; cd /usr/share/applications &amp;gt; cd touch xampp.desktop &amp;gt; sudo nano xampp.desktop  Copy dan Paste Script di bawah ini.  [Desktop Entry] Encoding=UTF-8 Name=XAMPP Comment=XAMPP Linux Control Panel Exec=sudo /opt/lampp/manager-linux-x64.run Icon=/opt/lampp/htdocs/favicon.ico Categories=Application Type=Application Terminal=true Perizinan XAMPP &amp;gt; sudo chmod 775 /opt/lampp </description>
+      <description>A. Instalasi XAMPP Linux  Download XAMPP : XAMPP Linux Buka Terminal  &amp;gt; sudo chmod 777 xampp.run &amp;gt; sudo ./xampp.run &amp;gt; Membuat Shortcut XAMPP &amp;gt; cd /usr/share/applications &amp;gt; cd touch xampp.desktop &amp;gt; sudo nano xampp.desktop  Copy dan Paste Script di bawah ini.  [Desktop Entry] Encoding=UTF-8 Name=XAMPP Comment=XAMPP Linux Control Panel Exec=sudo /opt/lampp/manager-linux-x64.run Icon=/opt/lampp/htdocs/favicon.ico Categories=Application Type=Application Terminal=true &amp;gt; Membuat Perizinan XAMPP &amp;gt; sudo chmod 775 /opt/lampp B. Instalasi XAMPP Windows  Download XAMPP : XAMPP Windows Buka File Installer dengan cara klik 2x pada File Tekan Next, dan di saat pemilihan Komponen silakan centang Apache, MySQL, PHP ( Jika ada ), phpMyAdmin, Perl dan untuk pilihan lainnya biarkan seperti semula.</description>
     </item>
     
   </channel>
