@@ -6,10 +6,21 @@
     <description>Recent content on KuliahPHP by bucinkode</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-ID</language>
-    <lastBuildDate>Fri, 22 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jan 2022 10:21:03 +0700</lastBuildDate>
     
 	<atom:link href="https://bucin-kode.github.io/kuliahphp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://bucin-kode.github.io/kuliahphp/about/</link>
+      <pubDate>Sat, 29 Jan 2022 10:21:03 +0700</pubDate>
+      
+      <guid>https://bucin-kode.github.io/kuliahphp/about/</guid>
+      <description>Hello World, Perkenalkan 👋 Saya Andika Tulus Pangestu atau biasa dipanggil &amp;ldquo;Tulus&amp;rdquo;, saya tinggal di Tegal, Jawa Tengah.
+Hobi saya adalah mencoba berbagai hal yang berkaitan dengan Teknologi Informasi dan Komunikasi.
+&amp;gt; Tentang KuliahPHP Awal mula blog ini dibuat karena saya butuh tempat untuk berbagi apa yang telah saya pelajari dan saya lakukan selama belajar di Dunia Teknologi. Banyak tempat dan situs yang telah saya coba seperti Medium, Wordpress, Blogger dll.</description>
+    </item>
     
     <item>
       <title>#1 PHP Linux Environment - Start Journey</title>
