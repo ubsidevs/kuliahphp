@@ -6,7 +6,7 @@
     <description>Recent content in php on KuliahPHP by bucinkode</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-ID</language>
-    <lastBuildDate>Fri, 22 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://bucin-kode.github.io/kuliahphp/tags/php/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,19 @@
     <item>
       <title>#1 PHP Linux Environment - Start Journey</title>
       <link>https://bucin-kode.github.io/kuliahphp/posts/php-linux-environment/</link>
-      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bucin-kode.github.io/kuliahphp/posts/php-linux-environment/</guid>
       <description>A. Instalasi XAMPP Linux  Download XAMPP : XAMPP Linux Buka Terminal  &amp;gt; sudo chmod 777 xampp.run &amp;gt; sudo ./xampp.run &amp;gt; Membuat Shortcut XAMPP &amp;gt; cd /usr/share/applications &amp;gt; cd touch xampp.desktop &amp;gt; sudo nano xampp.desktop  Copy dan Paste Script di bawah ini.  [Desktop Entry] Encoding=UTF-8 Name=XAMPP Comment=XAMPP Linux Control Panel Exec=sudo /opt/lampp/manager-linux-x64.run Icon=/opt/lampp/htdocs/favicon.ico Categories=Application Type=Application Terminal=true &amp;gt; Membuat Perizinan XAMPP &amp;gt; sudo chmod 775 /opt/lampp  B. Instalasi XAMPP Windows  Download XAMPP : XAMPP Windows Buka File Installer dengan cara klik 2x pada File Tekan Next, dan di saat pemilihan Komponen silakan centang Apache, MySQL, PHP ( Jika ada ), phpMyAdmin dan untuk pilihan lainnya biarkan seperti semula.</description>
+    </item>
+    
+    <item>
+      <title>#2 PHP Hello World - Syntax Dasar</title>
+      <link>https://bucin-kode.github.io/kuliahphp/posts/php-helloworld/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bucin-kode.github.io/kuliahphp/posts/php-helloworld/</guid>
+      <description>A. Membuat Project PHP  Hidupkan XAMPP Web Server Buat Folder latihanphp di folder C:XAMPP/htdocs (Windows) atau /opt/lampp/htdocs ( Linux ) Buat file baru dengan nama index dan berektensi .php ( index.php ) Buat Program Hello World Jalankan Program kamu dengan cara buka URL localhost/latihanphp/ Jika berhasil, maka teks Hello World akan tampil di monitor  B. Membuat Program Hello World Untuk menuliskan kode PHP, kita membutuhkan dua tag yaitu tag Pembuka &amp;lt;?</description>
     </item>
     
   </channel>
